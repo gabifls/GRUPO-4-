@@ -1,15 +1,18 @@
 # Proximas fechas importantes 
 
-## 11/04 y 14/04 
-                 Comienzo de entrevista de documentacion y funcional
-                 Creación de UserStorys
-                 Comienzo de kanban + Aplicarlo al GitHub
-                 Paso de entrevistas en PDF a Google Form (Ambas)
-                 
-## 18/04 
-         Comienzo de sprint de diseño
-         Realizacion de la Planning basada en el kanban
-         Comienzo de MER (Diagrama Entidad - Relacion)
+  20 Junio
+  
+## Tareas
+
+    Arreglar MER - MR 
+    Arreglar GANTT
+    Cambios a las ultimas pantallas
+    Crear project
+    Todas las tablas creadas (Normalizado)
+    Relaciones entre tablas 
+    Datos de prueba
+    Casos de prueba BD (Querys)
+
 
 # GRUPO-4-
 Repositorio del mejor grupo del mundo
