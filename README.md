@@ -1,17 +1,18 @@
 # Proximas fechas importantes 
 
-  20 Junio
+  14 Julio
   
 ## Tareas
 
-    Arreglar MER - MR 
+    Arreglar  MR 
     Arreglar GANTT
-    Cambios a las ultimas pantallas
-    Crear project
-    Todas las tablas creadas (Normalizado)
     Relaciones entre tablas 
     Datos de prueba
-    Casos de prueba BD (Querys)
+    Casos de prueba BD (Querys) sprint 3
+    probar test casos sprint 2
+    Hostearlo
+    login 
+    registro 
 
 
 # GRUPO-4-
