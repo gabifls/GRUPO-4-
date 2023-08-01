@@ -1,18 +1,10 @@
 # Proximas fechas importantes 
 
-  14 Julio
+   Fin del sprint 4 - 29 de agosto
   
 ## Tareas
 
-    Arreglar  MR 
-    Arreglar GANTT
-    Relaciones entre tablas 
-    Datos de prueba
-    Casos de prueba BD (Querys) sprint 3
-    probar test casos sprint 2
-    Hostearlo
-    login 
-    registro 
+     
 
 
 # GRUPO-4-
