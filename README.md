@@ -3,7 +3,8 @@
    Fin del sprint 4 - 29 de agosto
   
 ## Tareas
-
+   Pantalla de colegios, cursos, materias, asistencia y calificacion (Visual)
+   
      
 
 
