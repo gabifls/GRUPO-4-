@@ -4,6 +4,11 @@
   
 ## Tareas
    Pantalla de colegios, cursos, materias, asistencia y calificacion (Visual)
+   Querys de colegio, cursos materias (FUNCIONAL)
+   Login, registro (FUNCIONAL)
+   Casos de prueba 
+
+   
    
      
 
