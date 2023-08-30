@@ -3,15 +3,7 @@ https://classmanagerfa.000webhostapp.com/
    Fin del sprint 4 - 29 de agosto
   
 ## Tareas
-   Pantalla de colegios, cursos, materias, asistencia y calificacion (Visual)
-   Querys de colegio, cursos materias (FUNCIONAL)
-   Login, registro (FUNCIONAL)
-   Casos de prueba 
-
-   
-   
-     
-
+   Login, registro (DBA)   
 
 # GRUPO-4-
 Repositorio del mejor grupo del mundo
