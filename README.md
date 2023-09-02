@@ -3,7 +3,8 @@ https://classmanagerfa.000webhostapp.com/
    Fin del sprint 4 - 29 de agosto
   
 ## Tareas
-   Login, registro (DBA)   
+   Login, registro (DBA)  
+   Hacer funcional las pantallas (Front)
 
 # GRUPO-4-
 Repositorio del mejor grupo del mundo
